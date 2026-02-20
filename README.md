@@ -20,7 +20,7 @@ This project is a **C++ Console Application** that calculates electricity bills.
 ## 🚀 Getting Started
 ### 📥 Clone the Repository:
 ```sh
-git clone https://github.com/Hasaan053/E_Bill.git
+git clone https://github.com/warisha-hammad/E_Bill.git
 ```
 ### 📂 Navigate to the Project Directory:
 ```sh
@@ -60,7 +60,7 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 For any queries or suggestions, feel free to reach out:
-- 📧 **Email**: hasaanazeem07@gmail.com
-- 🖥 **GitHub**: [Hasaan Azeem](https://github.com/Hasaan053)
+- 📧 **Email**: warishahammad1234@gmail.com
+- 🖥 **GitHub**: [Warisha-Hammad](https://github.com/warisha-hammad)
 ```
 
